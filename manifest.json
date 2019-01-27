@@ -1,0 +1,21 @@
+{
+  "name": "AIUCBEF OFFICIAL WEBSITE",
+  "short_name": "AIUCBEF",
+  "icons": [{
+      "src": "images/news-icon-144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }, {
+      "src": "images/aiucbef-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }, {
+      "src": "images/news-icon-96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }],
+  "start_url": "/",
+  "background_color": "#FAFAFA",
+  "display": "standalone",
+  "theme_color": "#FAFAFA"
+}
